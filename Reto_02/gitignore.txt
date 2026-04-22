@@ -1,0 +1,3 @@
+logs/2026-4-20_8-49-9
+conversacion.exe
+log.json
